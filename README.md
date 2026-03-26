@@ -39,7 +39,7 @@ I specialize in transforming complex data into clear, actionable insights and bu
 ## 🛠️ Tech Stack
 
 **Languages:**
-Python | R | SQL
+Python | R | SQL|Neo4J|MongoDB
 
 **Data Engineering & Cloud:**
 BigQuery | Cloud Run | Vertex AI | Dataflow | Pub/Sub | AWS (EC2, Lambda, RDS)
@@ -48,7 +48,7 @@ BigQuery | Cloud Run | Vertex AI | Dataflow | Pub/Sub | AWS (EC2, Lambda, RDS)
 Looker | Power BI | Tableau | Excel | Google Sheets
 
 **Tools & Libraries:**
-pandas | NumPy | scikit-learn
+pandas | NumPy | scikit-learn|Tidyverse|TidyModels|Apache Spark|DataFlow
 
 ---
 
@@ -90,6 +90,7 @@ pandas | NumPy | scikit-learn
 
 * Google Cloud Digital Leader
 * Google Cloud Generative AI Leader
+* In Progress: Google Cloud Data Engineer · ML Engineer · Associate Data Practitioner
 
 ---
 
